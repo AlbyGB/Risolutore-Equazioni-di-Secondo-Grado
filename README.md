@@ -1,1 +1,1 @@
-# Risolutore-Equazioni-di-Secondo-Grado
+Risolutore di Equazioni di Secondo Grado scritto in Python
