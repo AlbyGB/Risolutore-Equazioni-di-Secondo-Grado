@@ -36,3 +36,6 @@ def giovanni():
 
 def guirb():
     print("domani")
+
+def dasd():
+    print("cuaisdasd")
