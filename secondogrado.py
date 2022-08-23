@@ -33,3 +33,6 @@ def ciao():
 
 def giovanni():
     print("ciao")
+
+def guirb():
+    print("domani")
