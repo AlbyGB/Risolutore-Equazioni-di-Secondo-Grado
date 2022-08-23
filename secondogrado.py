@@ -27,3 +27,6 @@ elif a != 0:
         x1 = (-b+math.sqrt(delta))/2*a
         x2 = (-b-math.sqrt(delta))/2*a
         print(x1, x2)
+
+def ciao():
+    print("prova credenziali git")
