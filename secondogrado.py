@@ -30,3 +30,6 @@ elif a != 0:
 
 def ciao():
     print("prova credenziali git")
+
+def giovanni():
+    print("ciao")
