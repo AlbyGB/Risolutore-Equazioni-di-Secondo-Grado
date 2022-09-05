@@ -24,18 +24,6 @@ elif a != 0:
     if delta < 0:
         print("impossibile")
     elif delta >= 0:
-        x1 = (-b+math.sqrt(delta))/2*a
-        x2 = (-b-math.sqrt(delta))/2*a
-        print(x1, x2)
-
-def ciao():
-    print("prova credenziali git")
-
-def giovanni():
-    print("ciao")
-
-def guirb():
-    print("domani")
-
-def dasd():
-    print("cuaisdasd")
+        x1 = (-b+math.sqrt(delta)) / (2*a)
+        x2 = (-b-math.sqrt(delta)) / (2*a)
+        print(format(x1, '.2f'), format(x2, '.2f'))
